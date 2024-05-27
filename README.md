@@ -5,5 +5,4 @@
 - 사용기술
   - React
   - Spring
-
-![이미지 없음](ham.png)
+[이미지 없음](ham.png)
